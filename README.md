@@ -2,6 +2,10 @@
 
 A backend API for a cinema platform, enabling movie session management, ticket purchasing, and payment processing. Built as the final project of the Back-End with JS module at Kenzie Academy Brasil by a team of 6 developers.
 
+## Entity Relationship Diagram
+
+![Diagram](./diagram_api_cine.png)
+
 ## Technologies
 
 - Node.js
